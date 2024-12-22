@@ -1,2 +1,2 @@
 # codsoft_task1
-Python Programming Task 1: Calculator
+Python Programming Internship Task 1: Calculator
